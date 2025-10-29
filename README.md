@@ -1,5 +1,7 @@
 
 # HealthProof
+<img width="1920" height="1080" alt="Screenshot 2025-10-29 143054" src="https://github.com/user-attachments/assets/7b84cd7a-d0b6-4250-be4e-cab72d958cd6" />
+
 
 # 🏥 HealthProof – Secure Medical Report Verification on Blockchain
 
