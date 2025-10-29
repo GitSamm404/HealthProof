@@ -1,6 +1,8 @@
 
 # HealthProof
-
+<p align="center">
+  <img src="Screenshot 2025-10-29 143054.png" alt="App Screenshot" width="600"/>
+</p>
 
 # 🏥 HealthProof – Secure Medical Report Verification on Blockchain
 
