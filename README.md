@@ -1,4 +1,8 @@
 # HealthProof
+<p align="center">
+  <img src="Screenshot%202025-10-29%20143054.png" alt="HealthProof Screenshot" width="600"/>
+</p>
+
 # 🏥 HealthProof – Secure Medical Report Verification on Blockchain
 
 **HealthProof** is a decentralized smart contract built on the **Celo blockchain** to securely store and verify patient medical reports using cryptographic hashes.  
@@ -102,6 +106,4 @@ contract HealthProof {
     }
 
 }
-
-<img width="1920" height="1080" alt="Screenshot 2025-10-29 143054" src="https://github.com/user-attachments/assets/ae7c077e-1377-4b15-86eb-b0e15daa7803" />
 
