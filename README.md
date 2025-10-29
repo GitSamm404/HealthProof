@@ -99,7 +99,9 @@ contract HealthProof {
         Report memory report = reports[patientId];
         require(bytes(report.reportHash).length != 0, "No report found");
         return (report.patientName, report.reportHash, report.timestamp);
-    }<img width="1920" height="1080" alt="Screenshot 2025-10-29 143054" src="https://github.com/user-attachments/assets/ae7c077e-1377-4b15-86eb-b0e15daa7803" />
+    }
 
 }
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-29 143054" src="https://github.com/user-attachments/assets/ae7c077e-1377-4b15-86eb-b0e15daa7803" />
 
