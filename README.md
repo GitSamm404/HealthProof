@@ -101,5 +101,5 @@ contract HealthProof {
         return (report.patientName, report.reportHash, report.timestamp);
     }
 }
-![App Screenshot]()
+![App Screenshot](https://github.com/GitSamm404/HealthProof/blob/main/Screenshot%202025-10-29%20143054.png)
 
